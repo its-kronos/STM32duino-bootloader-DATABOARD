@@ -32,6 +32,7 @@
 
 #ifndef __CONFIG_H
 #define __CONFIG_H
+#define XTAL16M
 
 #include "common.h"
 
